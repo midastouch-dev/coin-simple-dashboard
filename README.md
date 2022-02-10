@@ -6,7 +6,9 @@ This project is to display the coins status.
 
 ## Run
 `git clone https://github.com/tylerfyu/coin-simple-dashboard.git`
+
 `npm install`
+
 `npm start`
 
 ## Reference
