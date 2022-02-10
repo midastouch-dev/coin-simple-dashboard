@@ -1,8 +1,7 @@
 # coin-simple-dashboard
+This project is to display the coins status.
 
 ![dashboard screen](https://github.com/tylerfyu/coin-simple-dashboard/blob/develop/img/screen.jpg)
-
-This project is to display the coins status.
 
 ## Run
 `git clone https://github.com/tylerfyu/coin-simple-dashboard.git`
